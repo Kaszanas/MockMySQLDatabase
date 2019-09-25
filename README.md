@@ -8,3 +8,4 @@
 
 2. Create Your database refering to file readme-mysql.md in repository.
 3. Configure settings.py
+4. Remember about running the server before running the script.
