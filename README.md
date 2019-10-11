@@ -7,5 +7,9 @@
   - ```pip install -r requirements.txt```
 
 2. Create Your database refering to file readme-mysql.md in repository.
+
 3. Configure settings.py
-4. Remember about running the server before running the script.
+
+4. If You wish to create a different relationship between tables or add tables please look into ```model.py```
+
+5. Remember about running the server before running the script.
