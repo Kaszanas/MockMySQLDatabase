@@ -13,3 +13,7 @@
 4. If You wish to create a different relationship between tables or add tables please look into ```model.py```
 
 5. Remember about running the server before running the script.
+
+## Adding Environment Variables
+
+![Search for](https://i.imgur.com/GVkCkBd.png)
