@@ -31,3 +31,9 @@ If You would like to add a permanent Environment Variable on Windows:
 ![New Environment Variable](https://i.imgur.com/CySfKXM.png)
 
 Please reference the ```settings.py``` file and add the Environment Variables accordingly.
+
+## Contributing
+
+If You'd like to contribute please see:
+
+https://jarv.is/notes/how-to-pull-request-fork-github/
